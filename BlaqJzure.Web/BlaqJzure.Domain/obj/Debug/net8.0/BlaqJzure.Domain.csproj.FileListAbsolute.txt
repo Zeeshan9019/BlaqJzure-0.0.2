@@ -1,0 +1,31 @@
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Domain.deps.json
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Domain.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Common.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.csproj.AssemblyReference.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.AssemblyInfoInputs.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.AssemblyInfo.cs
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.csproj.CoreCompileInputs.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.sourcelink.json
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzur.FB8B9F2A.Up2Date
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\refint\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\ref\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Domain.deps.json
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Domain.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\bin\Debug\net8.0\BlaqJzure.Common.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.csproj.AssemblyReference.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.AssemblyInfoInputs.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.AssemblyInfo.cs
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.csproj.CoreCompileInputs.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzur.FB8B9F2A.Up2Date
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\refint\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\ref\BlaqJzure.Domain.dll

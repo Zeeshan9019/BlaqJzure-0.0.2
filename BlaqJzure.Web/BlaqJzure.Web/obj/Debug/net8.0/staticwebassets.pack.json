@@ -1,0 +1,801 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlaqJzure.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlaqJzure.Web.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\language.png",
+      "PackagePath": "staticwebassets\\img\\language.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\img\\payment-item.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_shop-grid.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-grid.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_shoping-cart.scss",
+      "PackagePath": "staticwebassets\\sass\\_shoping-cart.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_sidebar.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlaqJzure.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlaqJzure.Web.props",
+      "PackagePath": "build\\BlaqJzure.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlaqJzure.Web.props",
+      "PackagePath": "buildMultiTargeting\\BlaqJzure.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlaqJzure.Web.props",
+      "PackagePath": "buildTransitive\\BlaqJzure.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

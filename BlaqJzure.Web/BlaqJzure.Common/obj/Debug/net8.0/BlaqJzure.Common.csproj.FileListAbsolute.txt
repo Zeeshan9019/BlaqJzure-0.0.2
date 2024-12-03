@@ -1,0 +1,25 @@
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net8.0\BlaqJzure.Common.deps.json
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net8.0\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net8.0\BlaqJzure.Common.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.csproj.AssemblyReference.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.AssemblyInfoInputs.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.AssemblyInfo.cs
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.csproj.CoreCompileInputs.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.sourcelink.json
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\refint\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\ref\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net8.0\BlaqJzure.Common.deps.json
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net8.0\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\bin\Debug\net8.0\BlaqJzure.Common.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.csproj.AssemblyReference.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.AssemblyInfoInputs.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.AssemblyInfo.cs
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.csproj.CoreCompileInputs.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\refint\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\ref\BlaqJzure.Common.dll

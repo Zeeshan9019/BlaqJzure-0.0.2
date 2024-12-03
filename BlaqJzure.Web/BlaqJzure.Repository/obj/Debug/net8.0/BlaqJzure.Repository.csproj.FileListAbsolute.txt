@@ -1,0 +1,39 @@
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Repository.deps.json
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Repository.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Repository.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Domain.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Common.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.csproj.AssemblyReference.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.AssemblyInfoInputs.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.AssemblyInfo.cs
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.csproj.CoreCompileInputs.cache
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.sourcelink.json
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzur.5EB3F06F.Up2Date
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\refint\BlaqJzure.Repository.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.pdb
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\ref\BlaqJzure.Repository.dll
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Repository.runtimeconfig.json
+E:\BlaqJzure\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.genruntimeconfig.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Repository.deps.json
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Repository.runtimeconfig.json
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Repository.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Repository.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Domain.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\bin\Debug\net8.0\BlaqJzure.Common.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.csproj.AssemblyReference.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.AssemblyInfoInputs.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.AssemblyInfo.cs
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.csproj.CoreCompileInputs.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzur.5EB3F06F.Up2Date
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\refint\BlaqJzure.Repository.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.pdb
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.genruntimeconfig.cache
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\ref\BlaqJzure.Repository.dll
