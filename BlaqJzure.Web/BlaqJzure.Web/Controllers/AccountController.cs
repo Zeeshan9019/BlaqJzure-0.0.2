@@ -61,8 +61,19 @@ public class AccountController : Controller
         var result = await _signInManager.PasswordSignInAsync(user.UserName, userLogin.password, false, false);
         if (result.Succeeded)
         {
+            var roles = await _userManager.GetRolesAsync(user);
             HttpContext.Session.SetString("UserId", user.Id);
-            return RedirectToAction("Index", "Cart");
+            HttpContext.Session.SetString("UserRoles", string.Join(",", roles));
+            if (roles.Contains("Admin"))
+            {
+                return RedirectToAction("Dashboards", "admin");
+            }
+            else if (roles.Contains("User"))
+            {
+                return RedirectToAction("Index", "Cart");
+            }
+
+            return RedirectToAction("Index", "Home");
         }
 
         ModelState.AddModelError(string.Empty, "Invalid login attempt.");

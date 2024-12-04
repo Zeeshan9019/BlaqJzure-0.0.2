@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlaqJzure.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76107be29fd9dc88499827490cc99360582ad5f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlaqJzure.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlaqJzure.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

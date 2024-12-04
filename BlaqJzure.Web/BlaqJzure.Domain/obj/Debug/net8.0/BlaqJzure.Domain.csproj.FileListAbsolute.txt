@@ -29,3 +29,4 @@ E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\Bla
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\refint\BlaqJzure.Domain.dll
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.pdb
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\ref\BlaqJzure.Domain.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Domain\obj\Debug\net8.0\BlaqJzure.Domain.sourcelink.json

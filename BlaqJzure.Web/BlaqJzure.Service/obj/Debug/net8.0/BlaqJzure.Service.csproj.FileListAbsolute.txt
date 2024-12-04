@@ -37,3 +37,4 @@ E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Service\obj\Debug\net8.0\Bl
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Service\obj\Debug\net8.0\refint\BlaqJzure.Service.dll
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Service\obj\Debug\net8.0\BlaqJzure.Service.pdb
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Service\obj\Debug\net8.0\ref\BlaqJzure.Service.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Service\obj\Debug\net8.0\BlaqJzure.Service.sourcelink.json

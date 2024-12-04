@@ -593,3 +593,4 @@ E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\refint
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\BlaqJzure.Web.pdb
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\BlaqJzure.Web.genruntimeconfig.cache
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\ref\BlaqJzure.Web.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\BlaqJzure.Web.sourcelink.json

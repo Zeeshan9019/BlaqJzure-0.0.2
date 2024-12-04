@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BlaqJzure.Web.bundle.scp.css"
     },
     {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\demo.css",
+      "PackagePath": "staticwebassets\\css\\demo.css"
+    },
+    {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\css\\elegant-icons.css",
       "PackagePath": "staticwebassets\\css\\elegant-icons.css"
     },
@@ -79,6 +83,26 @@
     {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\backgrounds\\18.jpg"
     },
     {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\banner\\banner-1.jpg",
@@ -173,6 +197,62 @@
       "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
     },
     {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon\\favicon.ico"
+    },
+    {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\featured\\feature-1.jpg",
       "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
     },
@@ -209,6 +289,94 @@
       "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
     },
     {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\linkedin.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\linkedin.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\illustrations\\man-with-laptop.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\man-with-laptop.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\language.png",
       "PackagePath": "staticwebassets\\img\\language.png"
     },
@@ -223,6 +391,22 @@
     {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\latest-product\\lp-3.jpg",
       "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\img\\layouts\\layout-without-navbar-light.png"
     },
     {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\img\\logo.png",
@@ -345,6 +529,22 @@
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\js\\form-basic-inputs.js"
+    },
+    {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
     },
@@ -373,8 +573,24 @@
       "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
     },
     {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\js\\pages-account-settings-account.js"
+    },
+    {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\js\\ui-toasts.js"
     },
     {
       "Id": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\wwwroot\\lib\\bootstrap\\LICENSE",

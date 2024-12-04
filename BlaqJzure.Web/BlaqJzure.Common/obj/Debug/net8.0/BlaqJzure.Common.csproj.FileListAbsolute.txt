@@ -23,3 +23,4 @@ E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\Bla
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\refint\BlaqJzure.Common.dll
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.pdb
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\ref\BlaqJzure.Common.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Common\obj\Debug\net8.0\BlaqJzure.Common.sourcelink.json

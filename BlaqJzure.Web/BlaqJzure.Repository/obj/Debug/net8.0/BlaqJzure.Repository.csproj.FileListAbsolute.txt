@@ -37,3 +37,4 @@ E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.pdb
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.genruntimeconfig.cache
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\ref\BlaqJzure.Repository.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Repository\obj\Debug\net8.0\BlaqJzure.Repository.sourcelink.json
