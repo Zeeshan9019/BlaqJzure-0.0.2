@@ -1,5 +1,12 @@
+using Autofac.Core;
+using BlaqJzure.Domain.Users;
 using BlaqJzure.Repository;
+using BlaqJzure.Repository.IrepositoryServices;
+using BlaqJzure.Repository.RepositryServices;
+using BlaqJzure.Service.Interfaces;
+using BlaqJzure.Service.Services;
 using BlaqJzure.Web.Models;
+using CrossSolution.DI.Registrars;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,7 +22,7 @@ internal class Program
         builder.Services.AddDbContext<ApplicationDbContext>(o =>
             o.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-        builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+        builder.Services.AddIdentity<User, IdentityRole>(options =>
         {
             options.Password.RequireDigit = false;
             options.Password.RequiredLength = 6;
@@ -42,6 +49,14 @@ internal class Program
             options.Cookie.HttpOnly = true;
             options.Cookie.IsEssential = true;
         });
+        builder.Services.AddScoped(typeof(Irepository<>), typeof(Repository<>));
+        builder.Services.AddScoped<IadminService, AdminService>();
+        /*ServiceRegistrar serviceRegistrar = new DefaultRegistrar(builder.Services,
+            [
+                ("BlaqJzure.Service", ServiceLifetime.Scoped),
+                ("BlaqJzure.Repository", ServiceLifetime.Scoped),
+            ]);*/
+
         var app = builder.Build();
 
         await RoleSeeder.SeedRolesAsync(app.Services);

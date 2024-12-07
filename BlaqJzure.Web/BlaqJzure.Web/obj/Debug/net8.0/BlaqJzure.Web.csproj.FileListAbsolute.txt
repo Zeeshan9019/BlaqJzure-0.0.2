@@ -594,3 +594,5 @@ E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\BlaqJz
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\BlaqJzure.Web.genruntimeconfig.cache
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\ref\BlaqJzure.Web.dll
 E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\obj\Debug\net8.0\BlaqJzure.Web.sourcelink.json
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\bin\Debug\net8.0\Autofac.dll
+E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web\bin\Debug\net8.0\CrossSolution.DI.dll

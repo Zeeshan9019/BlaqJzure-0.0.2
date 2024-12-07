@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlaqJzure.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76107be29fd9dc88499827490cc99360582ad5f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1653ae93c6e56277f081c81ba7d91d8abc4b8f8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlaqJzure.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlaqJzure.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E987271-A1E4-4E7F-A80D-D4E9D425218D}|BlaqJzure.Common\\BlaqJzure.Common.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.common\\enums\\accountenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E987271-A1E4-4E7F-A80D-D4E9D425218D}|BlaqJzure.Common\\BlaqJzure.Common.csproj|solutionrelative:blaqjzure.common\\enums\\accountenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7956D6-7C7F-473A-97CB-05B16F4EC58B}|BlaqJzure.Domain\\BlaqJzure.Domain.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7956D6-7C7F-473A-97CB-05B16F4EC58B}|BlaqJzure.Domain\\BlaqJzure.Domain.csproj|solutionrelative:blaqjzure.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63C25A7-4433-4513-925A-98777A387503}|BlaqJzure.Service\\BlaqJzure.Service.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.service\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63C25A7-4433-4513-925A-98777A387503}|BlaqJzure.Service\\BlaqJzure.Service.csproj|solutionrelative:blaqjzure.service\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E987271-A1E4-4E7F-A80D-D4E9D425218D}|BlaqJzure.Common\\BlaqJzure.Common.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.common\\models\\accounts\\admin\\adminsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E987271-A1E4-4E7F-A80D-D4E9D425218D}|BlaqJzure.Common\\BlaqJzure.Common.csproj|solutionrelative:blaqjzure.common\\models\\accounts\\admin\\adminsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63C25A7-4433-4513-925A-98777A387503}|BlaqJzure.Service\\BlaqJzure.Service.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.service\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63C25A7-4433-4513-925A-98777A387503}|BlaqJzure.Service\\BlaqJzure.Service.csproj|solutionrelative:blaqjzure.service\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\views\\adminsettings\\setting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\views\\adminsettings\\setting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\controllers\\adminsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\controllers\\adminsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\views\\shared\\sections\\navbar\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\views\\shared\\sections\\navbar\\_navbarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|e:\\blaqjzure\\blaqjzure 0.0.2\\blaqjzure.web\\blaqjzure.web\\areas\\admin\\controllers\\dashboardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6C1185-8E75-4169-8A7C-E5DBF8181274}|BlaqJzure.Web\\BlaqJzure.Web.csproj|solutionrelative:blaqjzure.web\\areas\\admin\\controllers\\dashboardscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +54,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_NavbarPartial.cshtml",
-              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\Shared\\Sections\\Navbar\\_NavbarPartial.cshtml",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Views\\Shared\\Sections\\Navbar\\_NavbarPartial.cshtml",
-              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\Shared\\Sections\\Navbar\\_NavbarPartial.cshtml",
-              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Views\\Shared\\Sections\\Navbar\\_NavbarPartial.cshtml",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAFsAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T07:03:35.917Z",
+              "DocumentIndex": 0,
+              "Title": "AccountEnum.cs",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Common\\Enums\\AccountEnum.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Common\\Enums\\AccountEnum.cs",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Common\\Enums\\AccountEnum.cs",
+              "RelativeToolTip": "BlaqJzure.Common\\Enums\\AccountEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:27:55.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Domain\\Users\\User.cs",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Domain\\Users\\User.cs",
+              "RelativeToolTip": "BlaqJzure.Domain\\Users\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:15:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminSetting.cs",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Common\\Models\\Accounts\\Admin\\AdminSetting.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Common\\Models\\Accounts\\Admin\\AdminSetting.cs",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Common\\Models\\Accounts\\Admin\\AdminSetting.cs",
+              "RelativeToolTip": "BlaqJzure.Common\\Models\\Accounts\\Admin\\AdminSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:43:04.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IadminService.cs",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Service\\Interfaces\\IadminService.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Service\\Interfaces\\IadminService.cs",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Service\\Interfaces\\IadminService.cs",
+              "RelativeToolTip": "BlaqJzure.Service\\Interfaces\\IadminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:50:43.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Service\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Service\\Services\\AdminService.cs",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Service\\Services\\AdminService.cs",
+              "RelativeToolTip": "BlaqJzure.Service\\Services\\AdminService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAMwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:50:23.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Program.cs",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Program.cs",
+              "RelativeToolTip": "BlaqJzure.Web\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:36:32.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminSettingsController.cs",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Controllers\\AdminSettingsController.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Controllers\\AdminSettingsController.cs",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Controllers\\AdminSettingsController.cs",
+              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Controllers\\AdminSettingsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:37:55.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Setting.cshtml",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\AdminSettings\\Setting.cshtml",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Views\\AdminSettings\\Setting.cshtml",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Views\\AdminSettings\\Setting.cshtml",
+              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Views\\AdminSettings\\Setting.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T07:37:38.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "BlaqJzure.Web\\Controllers\\AccountController.cs",
               "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\AccountController.cs",
               "RelativeToolTip": "BlaqJzure.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAD4vy4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T06:49:12.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "CartController.cs",
               "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BlaqJzure.Web\\Controllers\\CartController.cs",
               "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Controllers\\CartController.cs",
               "RelativeToolTip": "BlaqJzure.Web\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:47:47.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T06:47:47.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardsController.cs",
-              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Controllers\\DashboardsController.cs",
-              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Controllers\\DashboardsController.cs",
-              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Controllers\\DashboardsController.cs",
-              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Controllers\\DashboardsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BlaqJzure.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\BlaqJzure\\BlaqJzure 0.0.2\\BlaqJzure.Web\\BlaqJzure.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BlaqJzure.Web\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:47:38.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T06:47:38.442Z"
             }
           ]
         }

@@ -5,9 +5,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BlaqJzure.Web.Areas.Admin.Controllers;
 [Area("admin")]
-[ServiceFilter(typeof(AouthFilter))]
-[Authorize(Roles = "Admin")]
-public class DashboardsController : Controller
+/*[ServiceFilter(typeof(AouthFilter))]
+[Authorize(Roles = "Admin")]*/
+public class DashboardController : Controller
 {
     public IActionResult Index()
     {

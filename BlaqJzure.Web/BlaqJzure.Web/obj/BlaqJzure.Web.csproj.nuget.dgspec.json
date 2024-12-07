@@ -352,6 +352,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "CrossSolution.DI": {
+              "target": "Package",
+              "version": "[1.0.0.2, )"
+            },
             "Microsoft.AspNetCore.Session": {
               "target": "Package",
               "version": "[2.2.0, )"

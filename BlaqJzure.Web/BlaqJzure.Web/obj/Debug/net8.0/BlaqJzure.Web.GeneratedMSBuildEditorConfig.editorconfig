@@ -26,8 +26,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\BlaqJzure\BlaqJzure 0.0.2\BlaqJzure.Web\BlaqJzure.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/BlaqJzure/BlaqJzure 0.0.2/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/Dashboards/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkc1xJbmRleC5jc2h0bWw=
+[E:/BlaqJzure/BlaqJzure 0.0.2/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/AdminSettings/Setting.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXR0aW5nc1xTZXR0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BlaqJzure/BlaqJzure 0.0.2/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/BlaqJzure/BlaqJzure 0.0.2/BlaqJzure.Web/BlaqJzure.Web/Areas/Admin/Views/Shared/Error.cshtml]

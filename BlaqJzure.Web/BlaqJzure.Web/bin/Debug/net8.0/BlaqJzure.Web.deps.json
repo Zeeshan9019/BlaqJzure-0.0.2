@@ -12,12 +12,24 @@
           "BlaqJzure.Domain": "1.0.0",
           "BlaqJzure.Repository": "1.0.0",
           "BlaqJzure.Service": "1.0.0",
+          "CrossSolution.DI": "1.0.0.2",
           "Microsoft.AspNetCore.Session": "2.2.0",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7"
         },
         "runtime": {
           "BlaqJzure.Web.dll": {}
+        }
+      },
+      "Autofac/8.1.1": {
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "9.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Autofac.dll": {
+            "assemblyVersion": "8.1.1.0",
+            "fileVersion": "8.1.1.0"
+          }
         }
       },
       "Azure.Core/1.38.0": {
@@ -52,6 +64,18 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "assemblyVersion": "1.11.4.0",
             "fileVersion": "1.1100.424.31005"
+          }
+        }
+      },
+      "CrossSolution.DI/1.0.0.2": {
+        "dependencies": {
+          "Autofac": "8.1.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/CrossSolution.DI.dll": {
+            "assemblyVersion": "1.0.0.2",
+            "fileVersion": "1.0.0.2"
           }
         }
       },
@@ -2320,6 +2344,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Autofac/8.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lhHjVB/XJtxPDUQ/FAHWAC7Spu+P9TNfDbyx2W0ABqD1eTRo7TkcZ7l7Oq1S5pKNg7NXswdk9uH73qbOzSwQFA==",
+      "path": "autofac/8.1.1",
+      "hashPath": "autofac.8.1.1.nupkg.sha512"
+    },
     "Azure.Core/1.38.0": {
       "type": "package",
       "serviceable": true,
@@ -2333,6 +2364,13 @@
       "sha512": "sha512-Sf4BoE6Q3jTgFkgBkx7qztYOFELBCo+wQgpYDwal/qJ1unBH73ywPztIJKXBXORRzAeNijsuxhk94h0TIMvfYg==",
       "path": "azure.identity/1.11.4",
       "hashPath": "azure.identity.1.11.4.nupkg.sha512"
+    },
+    "CrossSolution.DI/1.0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yEoOgH38gwm0G/3mFYMf3eaNQpLbHzKwzxPpzUYn3zLKVQYM3KlnVhNUEzBLoMgtMDTlYhyBTb3xxGnw+Z1bGg==",
+      "path": "crosssolution.di/1.0.0.2",
+      "hashPath": "crosssolution.di.1.0.0.2.nupkg.sha512"
     },
     "Humanizer/2.14.1": {
       "type": "package",

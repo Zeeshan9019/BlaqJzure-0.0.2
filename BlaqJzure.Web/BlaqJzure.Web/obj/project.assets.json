@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Autofac/8.1.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Diagnostics.DiagnosticSource": "8.0.1"
+        },
+        "compile": {
+          "lib/net8.0/Autofac.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Autofac.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.38.0": {
         "type": "package",
         "dependencies": {
@@ -45,6 +61,19 @@
           "lib/netstandard2.0/Azure.Identity.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "CrossSolution.DI/1.0.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Autofac": "8.1.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2"
+        },
+        "compile": {
+          "lib/net8.0/CrossSolution.DI.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/CrossSolution.DI.dll": {}
         }
       },
       "Humanizer/2.14.1": {
@@ -3391,6 +3420,29 @@
     }
   },
   "libraries": {
+    "Autofac/8.1.1": {
+      "sha512": "lhHjVB/XJtxPDUQ/FAHWAC7Spu+P9TNfDbyx2W0ABqD1eTRo7TkcZ7l7Oq1S5pKNg7NXswdk9uH73qbOzSwQFA==",
+      "type": "package",
+      "path": "autofac/8.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "autofac.8.1.1.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net6.0/Autofac.dll",
+        "lib/net6.0/Autofac.xml",
+        "lib/net7.0/Autofac.dll",
+        "lib/net7.0/Autofac.xml",
+        "lib/net8.0/Autofac.dll",
+        "lib/net8.0/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
     "Azure.Core/1.38.0": {
       "sha512": "IuEgCoVA0ef7E4pQtpC3+TkPbzaoQfa77HlfJDmfuaJUCVJmn7fT0izamZiryW5sYUFKizsftIxMkXKbgIcPMQ==",
       "type": "package",
@@ -3427,6 +3479,19 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "CrossSolution.DI/1.0.0.2": {
+      "sha512": "yEoOgH38gwm0G/3mFYMf3eaNQpLbHzKwzxPpzUYn3zLKVQYM3KlnVhNUEzBLoMgtMDTlYhyBTb3xxGnw+Z1bGg==",
+      "type": "package",
+      "path": "crosssolution.di/1.0.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "crosssolution.di.1.0.0.2.nupkg.sha512",
+        "crosssolution.di.nuspec",
+        "lib/net8.0/CrossSolution.DI.dll",
+        "logo.png"
       ]
     },
     "Humanizer/2.14.1": {
@@ -8935,6 +9000,7 @@
       "BlaqJzure.Domain >= 1.0.0",
       "BlaqJzure.Repository >= 1.0.0",
       "BlaqJzure.Service >= 1.0.0",
+      "CrossSolution.DI >= 1.0.0.2",
       "Microsoft.AspNetCore.Session >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7"
@@ -8998,6 +9064,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "CrossSolution.DI": {
+            "target": "Package",
+            "version": "[1.0.0.2, )"
+          },
           "Microsoft.AspNetCore.Session": {
             "target": "Package",
             "version": "[2.2.0, )"

@@ -1,13 +1,15 @@
 ﻿using BlaqJzure.Common.Models.Accounts.Users;
+using BlaqJzure.Domain.Users;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
 public class AccountController : Controller
 {
-    private readonly UserManager<IdentityUser> _userManager;
-    private readonly SignInManager<IdentityUser> _signInManager;
+    private readonly UserManager<User> _userManager;
+    private readonly SignInManager<User> _signInManager;
 
-    public AccountController(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
+    public AccountController(UserManager<User> userManager, SignInManager<User> signInManager)
     {
         _userManager = userManager;
         _signInManager = signInManager;
@@ -20,7 +22,7 @@ public class AccountController : Controller
     public async Task<IActionResult> Register(UserRegistrations userRegistrations)
     {
         var role = "User";
-        var user = new IdentityUser { UserName = userRegistrations.username, Email = userRegistrations.email, EmailConfirmed = true };
+        var user = new User { UserName = userRegistrations.username, Email = userRegistrations.email, EmailConfirmed = true };
         var result = await _userManager.CreateAsync(user, userRegistrations.password);
 
         if (result.Succeeded)
@@ -63,10 +65,10 @@ public class AccountController : Controller
         {
             var roles = await _userManager.GetRolesAsync(user);
             HttpContext.Session.SetString("UserId", user.Id);
-            HttpContext.Session.SetString("UserRoles", string.Join(",", roles));
             if (roles.Contains("Admin"))
             {
-                return RedirectToAction("Dashboards", "admin");
+                HttpContext.Session.SetString("Password", userLogin.password);
+                return RedirectToAction("Dashboard", "admin");
             }
             else if (roles.Contains("User"))
             {
