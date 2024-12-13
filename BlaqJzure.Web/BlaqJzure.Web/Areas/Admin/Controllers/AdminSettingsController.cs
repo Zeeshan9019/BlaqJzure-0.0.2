@@ -22,9 +22,10 @@ namespace BlaqJzure.Web.Areas.Admin.Controllers
             return View(admin);
         }
         [HttpPost]
-        public IActionResult Update(AdminSetting adminSetting)
+        public async Task<bool> Update([FromBody] AdminSetting adminSetting)
         {
-            return null;
+            var result = await _userService.Update(adminSetting);
+            return result;
         }
     }
 }

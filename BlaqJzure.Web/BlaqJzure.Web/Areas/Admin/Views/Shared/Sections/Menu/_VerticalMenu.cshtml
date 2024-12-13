@@ -1,6 +1,12 @@
 @{
     TempData.Keep();
 
+
+
+
+
+
+
     string? currentPage = ViewContext.HttpContext.Request.Path;
 }
 
@@ -33,6 +39,35 @@
                 <div>Dashboards</div>
             </a>
         </li>
+
+
+        <li class='menu-item@(currentPage.Contains("Admins") || currentPage.Contains("Users") ? " active open" : "")'>
+            <a href="/admin/Admins/Index" class="menu-link menu-toggle">
+                <i class="menu-icon tf-icons bx bx-layout"></i>
+                <div>Administration</div>
+            </a>
+
+            <ul class="menu-sub">
+                <li class='menu-item@(currentPage.EndsWith("/Admins") || currentPage.EndsWith("/Admins/Index") ? " active" : "")'>
+                    <a href="/admin/Admins/Index" class="menu-link">
+                        <div>Admin</div>
+                    </a>
+                </li>
+            </ul>
+            <ul class="menu-sub">
+                <li class='menu-item@(currentPage.EndsWith("/Users") || currentPage.EndsWith("/Users/Index") ? " active" : "")'>
+                    <a href="/admin/Users/Index" class="menu-link">
+                        <div>User</div>
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+
+
+
+
+
         @* <li class='menu-item@(currentPage.EndsWith("/") || currentPage.StartsWith("/Dashboards/") ? " active open" : "")'>
         <a href="javascript:void(0);" class="menu-link menu-toggle">
         <i class="menu-icon tf-icons bx bx-home-smile"></i>

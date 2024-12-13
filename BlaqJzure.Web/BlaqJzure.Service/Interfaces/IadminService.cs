@@ -10,6 +10,7 @@ namespace BlaqJzure.Service.Interfaces
     public interface IadminService
     {
         Task<AdminSetting> Get();
-        Task<IAsyncResult> Update(AdminSetting setting);
+        Task<(List<AdminSetting>, int)> GetAll(int pageNumber, int pageSize);
+        Task<bool> Update(AdminSetting adminSetting);
     }
 }

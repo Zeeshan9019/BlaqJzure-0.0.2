@@ -51,12 +51,13 @@ internal class Program
         });
         builder.Services.AddScoped(typeof(Irepository<>), typeof(Repository<>));
         builder.Services.AddScoped<IadminService, AdminService>();
+        builder.Services.AddScoped<IuserService, UserService>();
         /*ServiceRegistrar serviceRegistrar = new DefaultRegistrar(builder.Services,
             [
                 ("BlaqJzure.Service", ServiceLifetime.Scoped),
                 ("BlaqJzure.Repository", ServiceLifetime.Scoped),
-            ]);*/
-
+            ]);
+        serviceRegistrar.Register();*/
         var app = builder.Build();
 
         await RoleSeeder.SeedRolesAsync(app.Services);

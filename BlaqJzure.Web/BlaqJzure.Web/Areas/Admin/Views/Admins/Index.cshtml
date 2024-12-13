@@ -1,0 +1,71 @@
+﻿@model IEnumerable<AdminSetting>;
+
+<!-- Striped Rows -->
+<div class="card">
+    <h5 class="card-header">Administrators</h5>
+    <div class="table-responsive text-nowrap">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(Model => Model.Id)</th>
+                    <th>@Html.DisplayNameFor(Model => Model.UserName)</th>
+                    <th>@Html.DisplayNameFor(Model => Model.Email)</th>
+                    <th>@Html.DisplayNameFor(Model => Model.Phone)</th>
+                    <th>@Html.DisplayNameFor(Model => Model.Address)</th>
+                    <th>@Html.DisplayNameFor(Model => Model.Role)</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody class="table-border-bottom-0">
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                        <td>@Html.DisplayFor(modelItem => item.UserName)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Phone)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Role)</td>
+                        <td>
+                            <div class="dropdown">
+                                <button type="button" class="btn p-0 dropdown-toggle hide-arrow" data-bs-toggle="dropdown"><i class="bx bx-dots-vertical-rounded"></i></button>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item" href="javascript:void(0);"><i class="bx bx-edit-alt me-1"></i> Edit</a>
+                                    <a class="dropdown-item" href="javascript:void(0);"><i class="bx bx-trash me-1"></i> Delete</a>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="row ms-auto">
+        <div class="col-lg-6">
+            <div class="demo-inline-spacing">
+                <!-- Basic Pagination -->
+                <nav>
+                    <ul class="pagination">
+                        <li class="page-item @(ViewBag.CurrentPage == 1 ? "disabled" : "")">
+                            <a class="page-link" href="/admin/Admins/Index?page=@(ViewBag.CurrentPage - 1)"><i class="tf-icon bx bx-chevrons-left bx-sm"></i></a>
+                        </li>
+
+                        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                        {
+                            <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                                <a class="page-link" href="/admin/Admins/Index?page=@i">@i</a>
+                            </li>
+                        }
+
+                        <li class="page-item @(ViewBag.CurrentPage == ViewBag.TotalPages ? "disabled" : "")">
+                            <a class="page-link" href="/admin/Admins/Index?page=@(ViewBag.CurrentPage + 1)"><i class="tf-icon bx bx-chevrons-right bx-sm"></i></a>
+                        </li>
+                    </ul>
+                </nav>
+                <!--/ Basic Pagination -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--/ Striped Rows -->
